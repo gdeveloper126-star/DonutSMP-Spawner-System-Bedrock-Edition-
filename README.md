@@ -123,7 +123,7 @@ Every spawner includes full item lore indicating exactly what drops it generates
 
 | Mob Type | Drops Produced |
 |---|---|
-| **Cow** | Raw Beef, Leather | if Cooked Turned On!|
+| **Cow** | Raw Beef, Leather [if Cooked Turned On!]|
 | **Pig** | Raw Porkchop, Saddle |
 | **Sheep** | Raw Mutton, White Wool |
 | **Chicken** | Raw Chicken, Feather, Egg |
